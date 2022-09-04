@@ -1,0 +1,28 @@
+.cute {
+    text-align: center;
+    font-size: 50px;
+    color: coral;
+}
+
+.cuteCatPic {
+    text-align: center;
+    font-size: 30px;
+    color: coral;
+
+}
+
+p {
+    font-size: larger;
+    color: darkolivegreen;
+}
+
+h1,
+h3,
+h2 {
+    font-style: italic;
+    color: coral;
+}
+
+ul {
+    color: lightslategray;
+}
